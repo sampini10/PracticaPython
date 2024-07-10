@@ -1,0 +1,9 @@
+{
+    "especialidades": ["Odontologia", "Medico Clinico", "Psicologia", "Traumatologia"],
+    "obras_sociales": {
+        "OSDE": 0.90,
+        "Swiss Medical": 0.85,
+        "Galeno": 0.95,
+        "Particular": 1.00
+    }
+}
